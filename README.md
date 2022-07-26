@@ -12,6 +12,9 @@ Hello, world! My name is Mateus Santos!
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">   
   
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+                 
+          
   ##
 <!-- <img align="right" alt=" " height="150" style="border-radius:50px;" src=" ">
 </div> -->
