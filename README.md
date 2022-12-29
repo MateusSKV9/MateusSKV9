@@ -1,4 +1,5 @@
-<h1> Hello, world! 👀🐱‍👤 My name is Mateus Santos! </h1>
+<h1> Hello, world!🐱‍👤 <br>
+ My name is Mateus Santos! </h1>
 <hr>
 
 <div align="left">
