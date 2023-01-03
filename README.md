@@ -1,4 +1,4 @@
-<h1 align=center>>Hello, world!👾< <br> My name is Mateus Santos!</h1>
+<h1 align=center>>Hello, world!< <br> My name is Mateus Santos!</h1>
 
  <div>
   <a href="https://github.com/MateusSKV9">
