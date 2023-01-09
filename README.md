@@ -1,4 +1,4 @@
-<h1 align=center>>Hello, world!< <br> My name is Mateus Santos!</h1>
+<h1 align=center>>>Hello, world!<< <br> My name is Mateus Santos!</h1>
 
  <div>
   <a href="https://github.com/MateusSKV9">
@@ -10,7 +10,7 @@
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Pablo-C++" height="30" width="40"
+  <img align="center" alt="Mateus-C++" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Mateus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Mateus-Pokeball"  height="50" width="50"
