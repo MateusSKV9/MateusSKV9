@@ -1,10 +1,6 @@
 <h1 align=center>>>Hello, world!<< <br> My name is Mateus Santos!</h1>
 
- <div>
-  <a href="https://github.com/MateusSKV9">
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSKV9&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=836FFF&icon_color=00BFFF"/>
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSKV9&layout=compact&langs_count=7&theme=radical&title_color=836FFF&icon_color=00BFFF"/>
-</div>
+<!-- Adicionar API -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
