@@ -4,6 +4,7 @@
  <div align= center>
   <a href="https://github.com/MateusSKV9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusSKV9&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=836FFF&icon_color=00BFFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSKV9&layout=compact&langs_count=7&theme=radical&title_color=836FFF&icon_color=00BFFF"/>
 </div>
 
 
@@ -23,7 +24,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
 <div>
   <a href="https://www.instagram.com/mateussantos0916/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-santos-1a7361246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- 
- <!-- ![Snake animation](https://github.com/MateusSKV9/MateusSKV9/blob/output/github-contribution-grid-snake.svg)
-</div> -->
+
