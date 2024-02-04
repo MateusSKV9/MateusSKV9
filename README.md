@@ -2,7 +2,12 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusantos999/) [![Lenkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-santos-1a7361246/) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mateusantos9)
 
-![Mateus Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=radical)
+<a href="https://github.com/mateusskv9/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical" />
+</a>
+<a href="https://github.com/mateusskv9/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusskv9&layout=compact&langs_count=8&card_width=300&theme=radical" />
+</a>
 
 ## Tecnologias
 
