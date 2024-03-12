@@ -18,4 +18,5 @@
     <img align="center" src="https://img.shields.io/badge/Java-rgb(216, 216, 216)?style=for-the-badge&logo=openjdk&logoColor=black" alt="java">
     <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
     <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">
+    <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">
 </div>
