@@ -6,7 +6,7 @@
 
 <div align="left">
   <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical" />
-  <img width=38% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusskv9&layout=compact&langs_count=8&theme=radical" />
+  <img width=37.6% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusskv9&layout=compact&langs_count=8&theme=radical" />
 </div>
 
 <h2 align="left">Tecnologias</h2>
