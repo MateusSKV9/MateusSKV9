@@ -6,10 +6,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&card_width=440" />
 </a>
 <a href="https://github.com/mateusskv9/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusskv9&layout=compact&langs_count=8&card_width=372&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusskv9&layout=compact&langs_count=8&card_width=370&theme=radical" />
 </a>
 <a href="https://github.com/mateusskv9/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusskv9&theme=radical&card_width=826">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusskv9&theme=radical&card_width=824">
 </a>
 
 
