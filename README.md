@@ -5,8 +5,8 @@
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mateusantos9)
 
 <div align="left">
-  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical" />
-  <img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusskv9&layout=compact&langs_count=8&theme=radical" />
+  <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical" />
+  <img width=38% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusskv9&layout=compact&langs_count=8&theme=radical" />
 </div>
 
 <h2 align="left">Tecnologias</h2>
