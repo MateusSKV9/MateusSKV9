@@ -6,8 +6,8 @@
 
 ## Estatísticas do GitHub
 <div width=100% align="center">
-  <img width=56.5% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1"alt="stats graph" />
-  <img width=43% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=mateusskv9&show_icons=true&theme=radical&layout=compact" />
+  <img width=56% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1"alt="stats graph" />
+  <img width=42.5% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=mateusskv9&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ###
