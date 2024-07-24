@@ -3,11 +3,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusantos999/) [![Lenkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-santos-1a7361246/) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mateusantos9)
 
 <a href="https://github.com/mateusskv9/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&card_width=400" />
 </a>
 <a href="https://github.com/mateusskv9/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusskv9&layout=compact&langs_count=8&card_width=300&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusskv9&layout=compact&langs_count=8&card_width=350&theme=radical" />
 </a>
+<a href="https://github.com/mateusskv9/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusskv9&theme=radical&card_width=803">
+</a>
+
 
 ## Tecnologias
 
