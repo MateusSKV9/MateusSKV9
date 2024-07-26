@@ -14,9 +14,9 @@ jobs:
       - name: Update GitHub Stats in README
         run: |
           # Substitui os URLs das imagens das estatísticas no README.md
-          sed -i 's|https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&show_icons=true&rank_icon=percentile|https://github-readme-stats.vercel.app/api?username=MateusSKV9&theme=radical&show_icons=true&rank_icon=percentile|g' README.md
-          sed -i 's|https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=radical&layout=compact|https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSKV9&theme=radical&layout=compact|g' README.md
-          sed -i 's|https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8|https://github-readme-activity-graph.vercel.app/graph?username=MateusSKV9&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8|g' README.md
+          sed -i 's|https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&show_icons=true&rank_icon=percentile|https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&show_icons=true&rank_icon=percentile|g' README.md
+          sed -i 's|https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=radical&layout=compact|https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=radical&layout=compact|g' README.md
+          sed -i 's|https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8|https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8|g' README.md
 
       - name: Commit changes
         run: |
