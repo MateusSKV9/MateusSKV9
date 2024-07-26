@@ -1,8 +1,8 @@
-name: Update README with GitHub Stats
+name: Update GitHub Stats in README
 
 on:
   schedule:
-    - cron: '*/2 * * * *' # Atualiza a cada 2 minutos
+    - cron: '*/1 * * * *' # Atualiza a cada 2 minutos
 
 jobs:
   update-readme:
@@ -11,11 +11,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Update GitHub Stats in README
+      - name: Update GitHub Stats URLs in README
         run: |
-          # Substitui os URLs das imagens das estatísticas no README.md
-          sed -i 's|https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&show_icons=true&rank_icon=percentile|https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&show_icons=true&rank_icon=percentile|g' README.md
-          sed -i 's|https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=radical&layout=compact|https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=radical&layout=compact|g' README.md
+          # Atualiza as URLs das imagens das estatísticas no README.md
+          sed -i 's|https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&show_icons=true&rank_icon=percentile&hide_border=true|https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&show_icons=true&rank_icon=percentile&hide_border=true|g' README.md
+          sed -i 's|https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=radical&layout=compact&hide_border=true|https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=radical&layout=compact&hide_border=true|g' README.md
           sed -i 's|https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8|https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8|g' README.md
 
       - name: Commit changes
@@ -23,5 +23,5 @@ jobs:
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@users.noreply.github.com'
           git add README.md
-          git commit -m 'Updated GitHub stats in README'
+          git commit -m 'Updated GitHub stats URLs in README'
           git push
