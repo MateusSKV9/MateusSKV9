@@ -2,7 +2,7 @@ name: Update README with GitHub Stats
 
 on:
   schedule:
-    - cron: '* * * * *' 
+    - cron: '*/2 * * * *' # Atualiza a cada 2 minutos
 
 jobs:
   update-readme:
@@ -13,7 +13,14 @@ jobs:
 
       - name: Generate GitHub Stats
         run: |
-          echo "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusSKV9&theme=radical&show_icons=true&rank_icon=percentile)" > README.md
+          STATS=$(curl -s "https://github-readme-stats.vercel.app/api?username=MateusSKV9&theme=radical&show_icons=true&rank_icon=percentile")
+          echo "$STATS"
+
+      - name: Update README
+        run: |
+          # Adiciona as estatísticas ao final do README.md existente
+          STATS_URL="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusSKV9&theme=radical&show_icons=true&rank_icon=percentile)"
+          echo "$STATS_URL" >> README.md
 
       - name: Commit changes
         run: |
