@@ -8,7 +8,7 @@
 
 <h2 align=center>Estatísticas do GitHub</h2>
 <div width=100% align="center">
-  <img width=56% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&show_icons=true&rank_icon=percentile&include_all_commits=true" alt="stats graph" />
+  <img width=56% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&theme=radical&show_icons=true&rank_icon=percentile" alt="stats graph" />
   
   <img width=42.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=radical&layout=compact" />
 </div>
