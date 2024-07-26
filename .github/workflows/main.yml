@@ -2,7 +2,7 @@ name: Update GitHub Stats in README
 
 on:
   schedule:
-    - cron: '*/1 * * * *' # Atualiza a cada 2 minutos
+    - cron: '*/2 * * * *' # Atualiza a cada 2 minutos
 
 jobs:
   update-readme:
