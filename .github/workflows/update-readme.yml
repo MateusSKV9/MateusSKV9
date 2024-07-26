@@ -2,7 +2,7 @@ name: Update README with GitHub Stats
 on:
   schedule:
     # Define a frequência de atualização (por exemplo, diariamente)
-    - cron: '* * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   update-readme:
