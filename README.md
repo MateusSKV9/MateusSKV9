@@ -34,4 +34,3 @@
     <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">
     <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python">
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusSKV9&theme=radical&show_icons=true&rank_icon=percentile)
