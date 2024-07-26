@@ -1,8 +1,8 @@
 name: Update README with GitHub Stats
+
 on:
   schedule:
-    # Define a frequência de atualização (por exemplo, diariamente)
-    - cron: '* * * * *'
+    - cron: '* * * * *' 
 
 jobs:
   update-readme:
@@ -11,16 +11,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
-      - name: Install dependencies
-        run: npm install github-readme-stats
-
       - name: Generate GitHub Stats
-        run: npx github-readme-stats --username mateusskv9 --theme radical --show-icons --rank_icon percentile > README.md
+        run: |
+          echo "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusSKV9&theme=radical&show_icons=true&rank_icon=percentile)" > README.md
 
       - name: Commit changes
         run: |
