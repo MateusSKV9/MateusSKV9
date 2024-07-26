@@ -1,0 +1,31 @@
+name: Update README with GitHub Stats
+on:
+  schedule:
+    # Define a frequência de atualização (por exemplo, diariamente)
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install github-readme-stats
+
+      - name: Generate GitHub Stats
+        run: npx github-readme-stats --username mateusskv9 --theme radical --show-icons --rank_icon percentile > README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Updated README with GitHub Stats'
+          git push
