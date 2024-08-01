@@ -8,12 +8,12 @@
 
 <h2 align=center>Estatísticas do GitHub</h2>
 <div width=100% align="center">
-  <img width=56% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=radical" alt="stats graph" />
+  <img width=56% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=050215" alt="stats graph" />
 
-  <img width=42.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=radical&layout=compact&hide_border=true" />
+  <img width=42.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215" />
 </div>
 <div width=100% align="center">
-  <img width=98.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=141321&color=f5f6fa&line=F34089&point=F34089&area=false&hide_border=true&radius=8" alt="stats graph" />
+  <img width=98.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=050215&color=f5f6fa&line=7FFF00&point=7FFF00&area=false&hide_border=true&radius=8" alt="stats graph" />
 </div>
 
 ###
