@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA20&height=120&section=header"/>
 <h1 align="center">Olá, Mundo! Eu sou Mateus Santos. 🫡</h2>
 
 <div align="center">
@@ -34,3 +35,5 @@
     <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">
     <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA20&height=120&section=footer"/>
