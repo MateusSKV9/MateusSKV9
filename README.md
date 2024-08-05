@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA20&height=120&section=header"/>
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Aptos+Code&size=30&vCenter=true&duration=4500&pause=99999&color=050215&width=590&lines=Ol%C3%A1%2C+Mundo!+Eu+sou+Mateus+Santos🫡"></img></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Aptos+Code&size=30&vCenter=true&duration=2000&pause=99999&color=050215&width=590&lines=Ol%C3%A1%2C+Mundo!+Eu+sou+Mateus+Santos🫡"></img></h1>
 
 <div align="center">
   <a href="https://www.instagram.com/mateusantos999/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;"></a>
