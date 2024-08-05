@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA20&height=120&section=header"/>
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Aptos+Code&size=30&vCenter=true&duration=2500&pause=9000&color=050215&width=690&lines=< Ol%C3%A1%2C+Mundo!+Eu+sou+Mateus+Santos />🫡"></img></h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Aptos+Code&size=30&vCenter=true&duration=2500&pause=9000&color=050215&width=690&lines=<Ol%C3%A1%2C+Mundo!+Eu+sou+Mateus+Santos/>🫡">
+</img></h1>
 
 <div align="center">
   <a href="https://www.instagram.com/mateusantos999/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;"></a>
@@ -21,7 +24,7 @@
 
 ###
 <div align="center" style="color: #f5f6fa;">
-  Vistantes:<br><img src="https://profile-counter.glitch.me/mateuskv9/count.svg?"  />
+  Visitantes:<br><img src="https://profile-counter.glitch.me/mateuskv9/count.svg?"  />
 </div>
 
 <h2 align=center>Tecnologias</h2>
