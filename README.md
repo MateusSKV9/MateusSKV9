@@ -17,7 +17,7 @@
   <img width=42.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215&title_color=00FA20" />
 </div>
 <div width=100% align="center">
-  <img width=98.735% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=050215&color=FFFFFF&line=00FA20&point=00FA20&area=false&hide_border=true&radius=8" alt="stats graph" />
+  <img width=98.72% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=050215&color=FFFFFF&line=00FA20&point=00FA20&area=false&hide_border=true&radius=8" alt="stats graph" />
 </div>
 
 ###
