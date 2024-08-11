@@ -22,7 +22,7 @@
 </div>
 
 <div width=100% align="center">
-  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=8&hide_border=true&card_width=900&card_height=200&stroke=00FA20&background=050215&ring=00FA20&fire=00FA20&currStreakNum=FFFFFF&sideNums=00FA20&currStreakLabel=00FA20&sideLabels=00FA20&dates=FFFFFF&excludeDaysLabel=FFFFFF&starting_year=2024"></img>
+  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=8&hide_border=true&card_width=600&card_height=200&stroke=00FA20&background=050215&ring=00FA20&fire=00FA20&currStreakNum=FFFFFF&sideNums=00FA20&currStreakLabel=00FA20&sideLabels=00FA20&dates=FFFFFF&excludeDaysLabel=FFFFFF&starting_year=2024"></img>
 </div>
 
 ###
