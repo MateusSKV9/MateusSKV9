@@ -16,8 +16,13 @@
 
   <img width=42.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215&title_color=00FA20" />
 </div>
+
 <div width=100% align="center">
   <img width=98.72% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=050215&color=FFFFFF&line=00FA20&point=00FA20&area=false&hide_border=true&radius=8" alt="stats graph" />
+</div>
+
+<div width=100% align="center">
+  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=8&hide_border=true&card_width=1000&card_height=200&stroke=00FA20&background=050215&ring=00FA20&fire=00FA20&currStreakNum=FFFFFF&sideNums=00FA20&currStreakLabel=00FA20&sideLabels=00FA20&dates=FFFFFF&excludeDaysLabel=FFFFFF&starting_year=2024"></img>
 </div>
 
 ###
