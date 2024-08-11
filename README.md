@@ -18,11 +18,11 @@
 </div>
 
 <div width=100% align="center">
-  <img width=98.72% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=050215&color=FFFFFF&line=00FA20&point=00FA20&area=false&hide_border=true&radius=8" alt="stats graph" />
+  <img width=98.72% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=050215&color=FFFFFF&line=00FA20&point=00FA20&area=false&hide_border=true&radius=6" alt="stats graph" />
 </div>
 
 <div width=100% align="center">
-  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=8&hide_border=true&card_width=837&card_height=200&stroke=00FA20&background=050215&ring=00FA20&fire=00FA20&currStreakNum=FFFFFF&sideNums=00FA20&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=00FA20&excludeDaysLabel=FFFFFF"></img>
+  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=7&hide_border=true&card_width=837&card_height=200&stroke=00FA20&background=050215&ring=00FA20&fire=00FA20&currStreakNum=FFFFFF&sideNums=00FA20&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=00FA20&excludeDaysLabel=FFFFFF"></img>
 </div>
 
 ###
