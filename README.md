@@ -18,7 +18,7 @@
 </div>
 
 <div width=100% align="center">
-  <img width=98.72% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=050215&color=FFFFFF&line=00FA20&point=00FA20&area=false&hide_border=true&radius=6" alt="stats graph" />
+  <img width=98.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=050215&color=FFFFFF&line=00FA20&point=00FA20&area=false&hide_border=true&radius=6" alt="stats graph" />
 </div>
 
 <div width=100% align="center">
