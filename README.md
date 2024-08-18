@@ -12,7 +12,7 @@
 
 <h2 align=center>Estatísticas do GitHub</h2>
 <div width=100% align="center">
-  <img width=55.9% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=00FA20&icon_color=00FA20&hide_border=true" alt="stats graph" />
+  <img width=55.9% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=00FA20&icon_color=00FA20&hide_border=true&rank_icon=percentile" alt="stats graph" />
 
   <img width=42.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215&title_color=00FA20" />
 </div>
