@@ -11,10 +11,10 @@
 </div>
 
 <h2 align=center>Estatísticas do GitHub</h2>
-<div width=100% align="center">
-  <img width=563px align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=00FA20&icon_color=00FA20&hide_border=true&rank_icon=github" alt="stats graph" />
+<div align="center">
+  <img width=562px align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=00FA20&icon_color=00FA20&hide_border=true&rank_icon=github" alt="stats graph" />
 
-  <img width=428px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215&title_color=00FA20" />
+  <img width=427px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215&title_color=00FA20" />
 </div>
 
 <div width=100% align="center">
