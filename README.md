@@ -11,7 +11,7 @@
 </div>
 
 <h2 align=center>Estatísticas do GitHub</h2>
-<div align="center">
+<div width=100% align="center">
   <img width=56.9% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=050215&title_color=00FA20&icon_color=00FA20&hide_border=true&rank_icon=github" alt="stats graph" />
 
   <img width=42.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=050215&title_color=00FA20" />
@@ -22,7 +22,7 @@
 </div>
 
 <div width=100% align="center">
-  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=5&hide_border=true&card_width=837&card_height=200&stroke=00FA20&background=050215&ring=00FA20&fire=00FA20&currStreakNum=FFFFFF&sideNums=00FA20&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=00FA20&excludeDaysLabel=FFFFFF&include_all_commits=true"></img>
+  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=5&hide_border=true&card_width=847&card_height=200&stroke=00FA20&background=050215&ring=00FA20&fire=00FA20&currStreakNum=FFFFFF&sideNums=00FA20&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=00FA20&excludeDaysLabel=FFFFFF&include_all_commits=true"></img>
 </div>
 
 ###
