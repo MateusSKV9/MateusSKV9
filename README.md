@@ -5,7 +5,7 @@
 </img></h1>
 
 <div align="center">
-  <a href="https://www.instagram.com/mateusantos999/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;"></a>
+  <!-- <a href="https://www.instagram.com/mateusantos999/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;"></a> -->
   <a href="https://www.linkedin.com/in/mateus-santos-1a7361246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" style="margin-left: 10px;"></a>
   <a href="https://linktr.ee/mateusantos9"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Instagram" style="margin-left: 10px;"></a>
 </div>
