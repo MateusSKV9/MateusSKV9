@@ -26,8 +26,6 @@
 </div>
 
 ###
-
-###
 <div align="center" style="color: #f5f6fa;">
   Visitantes:<br><img src="https://profile-counter.glitch.me/mateuskv9/count.svg?"  />
 </div>
