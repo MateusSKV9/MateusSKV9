@@ -30,6 +30,10 @@
   Visitantes:<br><img src="https://profile-counter.glitch.me/mateuskv9/count.svg?"  />
 </div>
 
+<div align="center">
+  <img width="50%" align="center" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</div>
+
 <h2 align=center>Tecnologias</h2>
 <div align="center" style="display: inline-block;">
   <div>
