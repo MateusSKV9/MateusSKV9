@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA20&height=120&section=header"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Aptos+Code&size=30&vCenter=true&duration=2500&pause=9000&color=00FA20&width=616&lines=<Ol%C3%A1%2C+Mundo!+Eu+sou+Mateus+Santos/>">
-</img></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA20&size=31&pause=1000&font=monospace&center=true&vCenter=true&width=1000&lines=Hello,+World!;+My+name+is+Mateus+Santos;I'm+from+Brazil;Be+Welcome!+%3D%29)](https://git.io/typing-svg)
 
 <div align="center">
   <!-- <a href="https://www.instagram.com/mateusantos999/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;"></a> -->
