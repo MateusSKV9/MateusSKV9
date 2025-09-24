@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0054&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d8ff&size=34&pause=1000&font=monospace&center=true&vCenter=true&width=1000&lines=Hello,+World!;+My+name+is+Mateus+Santos;I'm+from+Brazil;Be+Welcome!+%3D%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0054&size=34&pause=1000&font=monospace&center=true&vCenter=true&width=1000&lines=Hello,+World!;+My+name+is+Mateus+Santos;I'm+from+Brazil;Be+Welcome!+%3D%29)](https://git.io/typing-svg)
 
 <div align="center">
   <!-- <a href="https://www.instagram.com/mateusantos999/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;"></a> -->
@@ -14,22 +14,22 @@
 
 <h2 align=center>Estatísticas do GitHub</h2>
 <div width=100% align="center">
-  <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=20232a&title_color=00d8ff&icon_color=00d8ff&hide_border=true&rank_icon=github" alt="stats graph" />
+  <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=0D0C1D&title_color=FF0054&icon_color=FF0054&hide_border=true&rank_icon=github" alt="stats graph" />
 
-  <img width=42.8% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=20232a&title_color=00d8ff" />
+  <img width=42.8% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=0D0C1D&title_color=FF0054" />
 </div>
 
 <div width=100% align="center">
-  <img width=99.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=20232a&color=FFFFFF&line=00d8ff&point=01c0e2&area=false&hide_border=true&radius=6" alt="stats graph" />
+  <img width=99.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=0D0C1D&color=FFFFFF&line=FF0054&point=FF0054&area=false&hide_border=true&radius=6" alt="stats graph" />
 </div>
 
 <div width=100% align="center">
-  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=5&hide_border=true&card_width=847&card_height=200&stroke=00d8ff&background=20232a&ring=00d8ff&fire=00d8ff&currStreakNum=FFFFFF&sideNums=00d8ff&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=00d8ff&excludeDaysLabel=FFFFFF&include_all_commits=true"></img>
+  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=5&hide_border=true&card_width=847&card_height=200&stroke=FF0054&background=0D0C1D&ring=FF0054&fire=FF0054&currStreakNum=FFFFFF&sideNums=FF0054&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FF0054&excludeDaysLabel=FFFFFF&include_all_commits=true"></img>
 </div>
 
 ###
 <div align="center" style="color: #f5f6fa;">
-  Visitantes:<br><img src="https://komarev.com/ghpvc/?username=MateusSKV9&style=for-the-badge&color=00d8ff"  />
+  Visitantes:<br><img src="https://komarev.com/ghpvc/?username=MateusSKV9&style=for-the-badge&color=FF0054"  />
 </div>
 
 ###
@@ -42,7 +42,7 @@
 <div align="center" style="display: inline-block;">
   <div>
     <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
-    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+    <img align="center" src="https://img.shields.io/badge/React-0D0C1D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
     <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -60,4 +60,4 @@
   </div>  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0054&height=120&section=footer"/>
