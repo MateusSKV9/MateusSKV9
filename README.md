@@ -14,17 +14,17 @@
 
 <h2 align=center>Estatísticas do GitHub</h2>
 <div width=100% align="center">
-  <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=0c0a0b&title_color=ff0033&icon_color=ff0033&hide_border=true&rank_icon=github" alt="stats graph" />
+  <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=0d0c1d&title_color=ff0033&icon_color=ff0033&hide_border=true&rank_icon=github" alt="stats graph" />
 
-  <img width=42.8% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=0c0a0b&title_color=ff0033" />
+  <img width=42.8% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=0d0c1d&title_color=ff0033" />
 </div>
 
 <div width=100% align="center">
-  <img width=99.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=0c0a0b&color=FFFFFF&line=ff0033&point=ff0033&area=false&hide_border=true&radius=6" alt="stats graph" />
+  <img width=99.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=0d0c1d&color=FFFFFF&line=ff0033&point=ff0033&area=false&hide_border=true&radius=6" alt="stats graph" />
 </div>
 
 <div width=100% align="center">
-  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=5&hide_border=true&card_width=847&card_height=200&stroke=ff0033&background=0c0a0b&ring=ff0033&fire=ff0033&currStreakNum=FFFFFF&sideNums=ff0033&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=ff0033&excludeDaysLabel=FFFFFF&include_all_commits=true"></img>
+  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=5&hide_border=true&card_width=847&card_height=200&stroke=ff0033&background=0d0c1d&ring=ff0033&fire=ff0033&currStreakNum=FFFFFF&sideNums=ff0033&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=ff0033&excludeDaysLabel=FFFFFF&include_all_commits=true"></img>
 </div>
 
 ###
@@ -42,7 +42,7 @@
 <div align="center" style="display: inline-block;">
   <div>
     <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
-    <img align="center" src="https://img.shields.io/badge/React-0c0a0b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+    <img align="center" src="https://img.shields.io/badge/React-0d0c1d?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
     <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
