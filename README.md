@@ -14,17 +14,17 @@
 
 <h2 align=center>Estatísticas do GitHub</h2>
 <div width=100% align="center">
-  <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=0d0c1d&title_color=ff0033&icon_color=ff0033&hide_border=true&rank_icon=github" alt="stats graph" />
+  <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=0d0c1d&title_color=ff0033&icon_color=ff0033&hide_border=false&rank_icon=github" alt="stats graph" />
 
-  <img width=42.8% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=0d0c1d&title_color=ff0033" />
+  <img width=42.8% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=false&bg_color=0d0c1d&title_color=ff0033" />
 </div>
 
 <div width=100% align="center">
-  <img width=99.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=0d0c1d&color=FFFFFF&line=ff0033&point=ff0033&area=false&hide_border=true&radius=6" alt="stats graph" />
+  <img width=99.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=0d0c1d&color=FFFFFF&line=ff0033&point=ff0033&area=false&hide_border=false&radius=6" alt="stats graph" />
 </div>
 
 <div width=100% align="center">
-  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=5&hide_border=true&card_width=847&card_height=200&stroke=ff0033&background=0d0c1d&ring=ff0033&fire=ff0033&currStreakNum=FFFFFF&sideNums=ff0033&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=ff0033&excludeDaysLabel=FFFFFF&include_all_commits=true"></img>
+  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=5&hide_border=false&card_width=847&card_height=200&stroke=ff0033&background=0d0c1d&ring=ff0033&fire=ff0033&currStreakNum=FFFFFF&sideNums=ff0033&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=ff0033&excludeDaysLabel=FFFFFF&include_all_commits=true&"></img>
 </div>
 
 ###
