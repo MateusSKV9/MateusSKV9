@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39FF14&size=34&pause=1000&font=monospace&center=true&vCenter=true&width=1000&lines=Hello,+World!;+My+name+is+Mateus+Santos;I'm+from+Brazil;Be+Welcome!+%3D%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=34&pause=1000&font=monospace&center=true&vCenter=true&width=1000&lines=Hello,+World!;+My+name+is+Mateus+Santos;I'm+from+Brazil;Be+Welcome!+%3D%29)](https://git.io/typing-svg)
 
 <div align="center">
   <!-- <a href="https://www.instagram.com/mateusantos999/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;"></a> -->
@@ -14,22 +14,22 @@
 
 <h2 align=center>Estatísticas do GitHub</h2>
 <div width=100% align="center">
-  <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=0d0c1d&title_color=39FF14&icon_color=39FF14&hide_border=false&rank_icon=github" alt="stats graph" />
+  <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=0d0c1d&title_color=00E5FF&icon_color=00E5FF&hide_border=false&rank_icon=github" alt="stats graph" />
 
-  <img width=42.8% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=false&bg_color=0d0c1d&title_color=39FF14" />
+  <img width=42.8% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusskv9&theme=chartreuse-dark&layout=compact&hide_border=false&bg_color=0d0c1d&title_color=00E5FF" />
 </div>
 
 <div width=100% align="center">
-  <img width=99.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=0d0c1d&color=FFFFFF&line=39FF14&point=39FF14&area=false&hide_border=false&radius=6" alt="stats graph" />
+  <img width=99.7% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusskv9&bg_color=0d0c1d&color=FFFFFF&line=00E5FF&point=00E5FF&area=false&hide_border=false&radius=6" alt="stats graph" />
 </div>
 
 <div width=100% align="center">
-  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=5&hide_border=false&card_width=847&card_height=200&stroke=39FF14&background=0d0c1d&ring=39FF14&fire=39FF14&currStreakNum=FFFFFF&sideNums=39FF14&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=39FF14&excludeDaysLabel=FFFFFF&include_all_commits=true&"></img>
+  <img src="https://streak-stats.demolab.com?user=MateusSKV9&border_radius=5&hide_border=false&card_width=847&card_height=200&stroke=00E5FF&background=0d0c1d&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=00E5FF&excludeDaysLabel=FFFFFF&include_all_commits=true&"></img>
 </div>
 
 ###
 <div align="center" style="color: #f5f6fa;">
-  Visitantes:<br><img src="https://komarev.com/ghpvc/?username=MateusSKV9&style=for-the-badge&color=39FF14"  />
+  Visitantes:<br><img src="https://komarev.com/ghpvc/?username=MateusSKV9&style=for-the-badge&color=00E5FF"  />
 </div>
 
 ###
@@ -60,4 +60,4 @@
   </div>  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"/>
