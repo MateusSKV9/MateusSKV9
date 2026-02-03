@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=header" alt="" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=34&pause=1000&font=monospace&center=true&vCenter=true&width=1000&lines=Hello,+World!;+My+name+is+Mateus+Santos;I'm+from+Brazil;Be+Welcome!+%3D%29)](https://git.io/typing-svg)
 
@@ -60,4 +60,4 @@
   </div>  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer" alt="" />
