@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=header" alt="" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=34&pause=1000&font=monospace&center=true&vCenter=true&width=1000&lines=Hello,+World!;+My+name+is+Mateus+Santos;I'm+from+Brazil;Be+Welcome!+%3D%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E5FF&size=34&pause=850&font=monospace&center=true&vCenter=true&width=1000&lines=Hello,+World!;+My+name+is+Mateus+Santos!;I'm+from+Brazil!;Be+Welcome!+%3D%29)](https://git.io/typing-svg)
+
+---
 
 <div align="center">
   <!-- <a href="https://www.instagram.com/mateusantos999/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;"></a> -->
@@ -12,7 +14,8 @@
   
 </div>
 
-<h2 align=center>📊 Estatísticas do GitHub 📊</h2>
+<h2 align=center>🔹Estatísticas do GitHub🔹</h2>
+
 <div width=100% align="center">
   <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=0d0c1d&title_color=00E5FF&icon_color=00E5FF&hide_border=false&rank_icon=github" alt="" />
 
@@ -37,6 +40,8 @@
 <div align="center">
   <img width="50%" align="center" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
+
+---
 
 <h2 align=center>Tecnologias</h2>
 <div align="center" style="display: inline-block;">
