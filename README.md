@@ -12,7 +12,7 @@
   
 </div>
 
-<h2 align=center>Estatísticas do GitHub</h2>
+<h2 align=center>📊 Estatísticas do GitHub 📊</h2>
 <div width=100% align="center">
   <img width=56.6% align="center" src="https://github-readme-stats.vercel.app/api?username=mateusskv9&show_icons=true&theme=chartreuse-dark&bg_color=0d0c1d&title_color=00E5FF&icon_color=00E5FF&hide_border=false&rank_icon=github" alt="" />
 
